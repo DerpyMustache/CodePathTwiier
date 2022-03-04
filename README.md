@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://thumbs.gfycat.com/TemptingMildLeafhopper-mobile.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im.ezgif.com/tmp/ezgif-1-b4800cb9d6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
